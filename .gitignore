@@ -39,13 +39,19 @@ datasets/
 *.tar
 *.tar.gz
 
-# Training outputs
-runs/
-weights/
+# Training outputs (ignore most, keep important results)
+runs/*/events.out.tfevents.*
+runs/*/train_batch*.jpg
+runs/*/val_batch*.jpg
 cache/
 
-# Model checkpoints (too large)
+# Keep only best model weights
+weights/
 *.pt
+!runs/train/weights/best.pt
+!runs/train/weights/last.pt
+
+# Model formats
 *.pth
 *.onnx
 *.engine
