@@ -6,6 +6,12 @@
 
 An educational project demonstrating real-time object detection using YOLOv12 on Counter-Strike 2. This project showcases computer vision techniques, deep learning model training, and real-time inference.
 
+## 🎬 Demo Video
+
+https://github.com/iKosMooh/CS2-YoloV12-Detection/assets/CS2%20Yolov12.mp4
+
+*Real-time detection running at 24+ FPS with YOLOv12*
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
