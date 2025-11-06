@@ -8,9 +8,15 @@ An educational project demonstrating real-time object detection using YOLOv12 on
 
 ## 🎬 Demo Video
 
-https://github.com/iKosMooh/CS2-YoloV12-Detection/assets/CS2%20Yolov12.mp4
+https://github.com/user-attachments/assets/your-video-id-here
 
-*Real-time detection running at 24+ FPS with YOLOv12*
+*Real-time detection running at 24+ FPS with YOLOv12 - Detecting CT, CT_head, T, and T_head classes*
+
+> **Note:** Upload the `CS2 Yolov12.mp4` file to GitHub by:
+> 1. Creating a new Issue or Pull Request
+> 2. Dragging the video file into the comment box
+> 3. Copying the generated link
+> 4. Replacing the placeholder above with the actual link
 
 ## 📋 Table of Contents
 
